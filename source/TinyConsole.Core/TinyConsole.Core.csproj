@@ -7,7 +7,7 @@
 
 	<ItemGroup>
 		<!-- The highest stable version-->
-		<!--<PackageReference Include="AutoMapper" Version="*" />-->
+		<PackageReference Include="AutoMapper" Version="*" />
 
 		<!-- The highest stable version that matches the pattern -->
 		<!--<PackageReference Include="AutoMapper" Version="6.2.*" />-->
