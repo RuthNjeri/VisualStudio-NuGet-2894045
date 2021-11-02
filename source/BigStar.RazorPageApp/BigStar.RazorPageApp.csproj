@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="BigStarCollectibles.ColorLib" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\BigStar.ColorLib\BigStar.ColorLib.csproj" />
   </ItemGroup>
 
